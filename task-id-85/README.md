@@ -17,7 +17,9 @@ node --harmony task.js keyword
 node 7.6以上可以省略--harmony
 
 ### 抓取结果
-![抓取结果](http://oji7gwhr9.bkt.clouddn.com/WX20170224-165459@2x-2017224.png)
+
+![抓取结果](http://oji7gwhr9.bkt.clouddn.com/task-86-2017224.png)
+
 ```
 {
     "code": 1,
