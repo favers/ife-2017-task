@@ -12,13 +12,15 @@ npm install
 ### 运行项目
 需要node 7.x+
 ```
-node --harmony task.js keyword
+node --harmony task.js keyword device
 ```
 node 7.6以上可以省略--harmony
 
 ### 抓取结果
 
-![抓取结果](http://oji7gwhr9.bkt.clouddn.com/task-86-2017224.png)
+运行`node task.js ife iPhone5`
+
+![抓取结果](http://oji7gwhr9.bkt.clouddn.com/WX20170224-165459@2x-2017227.png)
 
 ```
 {
@@ -26,6 +28,7 @@ node 7.6以上可以省略--harmony
     "msg": "抓取成功",
     "word": "ife",
     "time": 1969,
+    "device":"iPhone5",
     "dataList": [{
         "info": "IFE微信公众号:baidu_ifeIFE微博:Baidu前端技术学院 友情链接:百度EFE百度校园百度校园招聘 资源:IFE 2015IFE 2016 ©2017 Baidu 使用百度前必读 意见反馈 京ICP...",
         "link": "ife.baidu.com/ ",
