@@ -20,7 +20,7 @@ node 7.6以上可以省略--harmony
 
 运行`node task.js ife iPhone5`
 
-![抓取结果](http://oji7gwhr9.bkt.clouddn.com/WX20170224-165459@2x-2017227.png)
+![抓取结果](http://oji7gwhr9.bkt.clouddn.com/WechatIMG2-2017227.jpeg)
 
 ```
 {
